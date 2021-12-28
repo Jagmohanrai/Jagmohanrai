@@ -1,7 +1,7 @@
 ### Hi there, I'm Jagmohan Rai👦,
 A Flutter Developer🎯 from india.
 - 🌱 I’m currently learning NodeJs.
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/phobophistic) -[@PhoboPhistic] (https://www.instagram.com/phobophistic) or [Twitter](https://twitter.com/JagmohanRai14) - [@JagmohanRai14](https://twitter.com/JagmohanRai14)
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/phobophistic) -[@PhoboPhistic](https://www.instagram.com/phobophistic) or [Twitter](https://twitter.com/JagmohanRai14) - [@JagmohanRai14](https://twitter.com/JagmohanRai14)
 
 **Languages:**  
 
